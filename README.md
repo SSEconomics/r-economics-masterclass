@@ -1,9 +1,8 @@
-# r-economics-masterclass
-The introduction to R I wish I had. A masterclass on professional, reproducible workflows for economists: cleaning, debugging, data filtration, modelling, simulations, and automated exporting.
-
 # R Economics Masterclass
 
-**This is the introduction to R I wish I had.**
+**This is the introduction to R I wish I had.** 
+
+A masterclass on professional, reproducible workflows for economists: cleaning, debugging, data filtration, modelling, simulations, and automated exporting.
 
 Suitable for all levels, this course is designed to make you a **better economist**. The goal is simple: improve your efficiency, save you hours of headaches, and eliminate errors through automation. Business students use Excel - economists use software (R/Stata/Python).
 
@@ -13,12 +12,15 @@ These scripts provide the hacks and workflows necessary to move from "manual" an
 
 ## 📺 The Video Series (Watch & Code Along)
 
-## | Video Title | Skill Learned | Script | | :--- | :--- | :--- | 
+| Video Title | Skill Learned | Script | 
+| :--- | :--- | :--- | 
 | **1. Automated Import, Convert, Combine** ((Video Coming Soon)) | Reproducible data loading (`tidyverse`) | `01_Clean_Data_Automated.R` | 
 | **2. Debug Like a Pro** ((Video Coming Soon)) | Problem solving common coding errors | `02_Debug_Like_A_Pro.R` | 
 | **3. Essential Data Skills** (Video Coming Soon) | Professional analysis & visualization (`ggplot2`) | `03_Essential_Skills.R` | 
 | **4. The Spurious Trap** (Video Coming Soon) | Monte Carlo Simulations | `04_Spurious_Regression_Trap.R` | 
 | **5. The Copy-Paste Intervention** (Video Coming Soon) | Exporting Results to Word/Excel/LaTeX (`modelsummary`/`stargazer`) | `05_Copy_Paste_Intervention.R` |
+
+---
 
 ## 🚀 Quick Start
 
